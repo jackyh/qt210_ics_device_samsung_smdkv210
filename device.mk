@@ -53,7 +53,7 @@ PRODUCT_PACKAGES += \
 #audio
 PRODUCT_PACKAGES += \
         audio_policy.smdkv210 \
-        audio.primary.smdkv210 \
+        audio.primary.s5pc110 \
         audio.a2dp.default \
         lights.smdkv210 \
         libaudioutils
